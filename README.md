@@ -1,5 +1,4 @@
 # calculator_using_java_awt
-# Calculator
 # Calculator Project
 
 This project is a simple calculator application made using Java AWT (Abstract Window Toolkit). AWT is an API for creating graphical user interface (GUI) or window-based applications in Java. It provides various components like buttons, labels, text fields, etc. that can be used as objects inside a Java program.
